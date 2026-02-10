@@ -1,0 +1,58 @@
+{
+  "coches": [
+    {
+      "id": 1,
+      "marca": "Porsche",
+      "modelo": "911 Carrera",
+      "motor": "Bóxer 6 cilindros",
+      "precio": 120000,
+      "imagen": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=500",
+      "categoria": "Deportivo"
+    },
+    {
+      "id": 2,
+      "marca": "Tesla",
+      "modelo": "Model S",
+      "motor": "Eléctrico",
+      "precio": 95000,
+      "imagen": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&q=80&w=500",
+      "categoria": "Eléctrico"
+    },
+    {
+      "id": 3,
+      "marca": "Ford",
+      "modelo": "Mustang Shelby GT500",
+      "motor": "V8 Supercharged",
+      "precio": 85000,
+      "imagen": "https://images.unsplash.com/photo-1584345604482-813583795051?auto=format&fit=crop&q=80&w=500",
+      "categoria": "Muscle Car"
+    },
+    {
+      "id": 4,
+      "marca": "Jeep",
+      "modelo": "Wrangler Rubicon",
+      "motor": "2.0 Turbo",
+      "precio": 65000,
+      "imagen": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=500",
+      "categoria": "4x4"
+    },
+    {
+      "id": 5,
+      "marca": "Ferrari",
+      "modelo": "F8 Tributo",
+      "motor": "V8 biturbo",
+      "precio": 240000,
+      "imagen": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?auto=format&fit=crop&q=80&w=500",
+      "categoria": "Superdeportivo"
+    },
+    {
+      "id": 6,
+      "marca": "Mercedes-Benz",
+      "modelo": "Clase G",
+      "motor": "V8",
+      "precio": 180000,
+      "imagen": "https://images.unsplash.com/photo-1520031441872-265e4ff70366?auto=format&fit=crop&q=80&w=500",
+      "categoria": "Lujo / 4x4"
+    }
+  ]
+}
